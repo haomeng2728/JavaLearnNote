@@ -211,7 +211,7 @@ public static void main(String[] args) {
 
 I designed my sql through the mysql terminal. I added three records into the user table of demo database.
 
-![SQL Design](D:\JavaWorkspace\PracticeNote\SQL_Design.png)
+![SQL Design](<https://github.com/Hedy2728/JavaLearnNote/blob/master/pic/SQL_Design.png>)
 
 
 
